@@ -16,16 +16,13 @@ I'm a passionate **Frontend Developer** with a strong interest in web developmen
 - **Role:** Manual Tester
 - **Project:** Contributed to the development of mobile and desktop applications for VR technologies.
 
-### SkyWave Grant Project
-
-- **Role:** Frontend Developer
-- **Project:** **Automating the Identification of Information Systems for Integration within Mergers and Acquisitions**
-- **Details:** Ongoing web application project as part of a grant with the company **SkyWave**.
-
 ### Freelance Work
 
 - **[Bawisdoms](https://bawisdoms.com/)**
   - Developed a responsive website focusing on user experience and functionality.
+
+- **Ongoing Web Application Project with SkyWave**
+  - Developing a web application as part of a grant with **SkyWave**, focusing on automating the identification of information systems for integration within mergers and acquisitions.
 
 ### Personal Projects
 
@@ -37,19 +34,15 @@ I'm a passionate **Frontend Developer** with a strong interest in web developmen
 - **Languages:** HTML, CSS (SCSS, Bootstrap), JavaScript, TypeScript
 - **Frameworks & Libraries:** React (Redux), Jest, Chart.js
 - **Tools & Technologies:** Figma, Postman, Trello
+- **Testing and Design:** QA Testing, UX/UI Design
 - **Programming Paradigms:** Functional Programming, Object-Oriented Programming
 - **Other:** Familiar with design patterns and principles of modern frontend architecture
 
-## Education 🎓
+## Additional Education 🎓
 
 - **Hexlet Courses:** [My Hexlet Profile](https://ru.hexlet.io/u/user-b5768da8612270f7)
 - **Yandex Course:** Completed a comprehensive frontend development course
 - **LeetCode:** Actively solving programming challenges to sharpen problem-solving skills
-
-## Achievements 🏆
-
-- Received Bachelor's and Master's degrees with honors
-- Maintained excellent relationships with colleagues, always finding common ground regardless of tasks and situations
 
 ## Interests 🎯
 
